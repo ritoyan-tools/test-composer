@@ -12,7 +12,6 @@
         }
     },    
     "require": {
-        "aizuyan/img2ascii": "^2.2",
         "monolog/monolog": "^1.23"
     }
 }
